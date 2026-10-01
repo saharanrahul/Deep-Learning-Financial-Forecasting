@@ -1,5 +1,5 @@
 # Deep Learning Financial Forecasting
-### Reproduction and Extension of Krauss et al. (2018)
+### Reproduction of Krauss et al. (2018)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)]()
 [![Status](https://img.shields.io/badge/Status-Research%20Project-orange.svg)]()
@@ -270,8 +270,5 @@ European Journal of Operational Research, 272(2), 689–702.
 
 
 ---
-
-## Disclaimer
-
 This repository is intended for academic and research purposes only.  
 It does not constitute financial advice or investment recommendations.
