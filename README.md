@@ -2,7 +2,6 @@
 ### Reproduction and Extension of Krauss et al. (2018)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Status](https://img.shields.io/badge/Status-Research%20Project-orange.svg)]()
 
 ---
