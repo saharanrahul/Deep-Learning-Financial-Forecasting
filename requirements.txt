@@ -2,8 +2,8 @@ Python==3.11
 yfinance==1.7.0
 pandas==2.2.3
 numpy==2.4.6
-matplotlib==<your_version>
-scikit-learn==<your_version>
-scipy==<your_version>
-jupyter==<your_version>
-requests==<your_version>
+scipy==1.17.1
+scikit-learn==1.9.1
+matplotlib==3.9.2
+requests==2.32.3
+jupyterlab==4.3.4
