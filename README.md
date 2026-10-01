@@ -259,16 +259,10 @@ The Logistic Regression benchmark shows:
 ---
 
 
-
 ## Reference
 
 Krauss, C., Do, X. A., & Huck, N. (2018).
 
-*Deep Neural Networks, Gradient-Boosted Trees, Random Forests, and Logistic Regression for Financial Asset Pricing.*
+*Deep Neural Networks,Random Forests, and Logistic Regression for Financial Asset Pricing.*
 
 European Journal of Operational Research, 272(2), 689–702.
-
-
----
-This repository is intended for academic and research purposes only.  
-It does not constitute financial advice or investment recommendations.
