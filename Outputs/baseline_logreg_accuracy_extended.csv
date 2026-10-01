@@ -1,0 +1,7 @@
+set,n,accuracy,benchmark,benchmark_type
+all rows: train,5972338,0.5155203874931392,0.5083468149324435,majority class
+all rows: val,1574442,0.5123751779995707,0.5070520222402604,majority class
+all rows: test,2683205,0.5105949787660652,0.5059210906360118,majority class
+top/flop-10 picks (combined),115000,0.5349652173913043,0.5,no-skill expectation
+  long picks only,57500,0.5345565217391305,0.5059210906360118,share of target=1 on used days
+  short picks only,57500,0.5353739130434783,0.49407890936398824,share of target=0 on used days
