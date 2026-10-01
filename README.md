@@ -259,33 +259,7 @@ The Logistic Regression benchmark shows:
 
 ---
 
-## Future Work
 
-- Complete Random Forest benchmark
-- Complete Deep Neural Network benchmark
-- Implement LSTM forecasting model
-- Hyperparameter optimization
-- Sector-neutral portfolio construction
-- Transaction cost analysis
-- Comparison with original paper results
-
----
-
-## Author
-
-**Rahul**
-M.Sc. Mathematics  
-Indian Institute of Technology Madras (IIT Madras)
-
-Interests:
-
-- Quantitative Finance
-- Machine Learning
-- Deep Learning
-- Asset Pricing
-- Algorithmic Trading
-
----
 
 ## Reference
 
@@ -295,7 +269,6 @@ Krauss, C., Do, X. A., & Huck, N. (2018).
 
 European Journal of Operational Research, 272(2), 689–702.
 
-DOI: https://doi.org/10.1016/j.ejor.2018.06.036
 
 ---
 
